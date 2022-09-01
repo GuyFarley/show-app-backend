@@ -32,7 +32,13 @@ The Binge allows a user to:
 
 ## How to Run This Application
 
-Application is deployed here: <https://the-binge-tv.netlify.app/>
+Application is deployed here:
+
+<https://cf-tv-review-app.herokuapp.com/user>
+
+<https://cf-tv-review-app.herokuapp.com/show>
+
+<https://cf-tv-review-app.herokuapp.com/review>
 
 ## Features & User Stories
 
